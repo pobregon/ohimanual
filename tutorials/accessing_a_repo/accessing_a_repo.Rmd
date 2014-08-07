@@ -105,7 +105,7 @@ When you modify or add a file, the file will appear in the 'Git' window. In the 
   - Note 2: clicking on a staged file will identify additions and deletions within that file for your review
 3. Click 'Commit' to commit the changes and the commit message
 4. Pull any changes that have been made to the online repo. This is important to ensure there are no conflicts with updating the online repo. See [Keeping synchronized](https://github.com/OHI-Science/ohimanual/blob/master/tutorials/accessing_a_repo/accessing_a_repo.md#keeping-syncronized). 
-5. Push your committed changes to the online server at `github.com/OHI-Science/ohi-[assessment]`. Your changes are now visable online.  
+5. Push your committed changes to the online server at `github.com/OHI-Science/ohi-[assessment]`. Your changes are now visible online.  
   
   
 > ![](zfig_commit_sk.png)
